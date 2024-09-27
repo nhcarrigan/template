@@ -5,14 +5,14 @@ labels:
 body:
   - type: textarea
     id: explain
-    attribute:
+    attributes:
       label: "Explanation"
       description: "Briefly explain WHY this pull request is necessary. Do not explain what it does, as that's evidenced in the changes."
       validations:
         required: true
   - type: input
     id: issue
-    attribute:
+    attributes:
       label: "Issue"
       description: "My pull request relates to or resolves the following issue number:"
       validations:

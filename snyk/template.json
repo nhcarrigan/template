@@ -1,5 +1,0 @@
-{
-  "ok": false,
-  "error": "\u001b[31m\u001b[1mCould not detect supported target files in /home/naomi/code/naomi/template.\u001b[22m\u001b[39m\n\u001b[31m\u001b[1mPlease see our documentation for supported languages and target files: \u001b[4mhttps://snyk.co/udVgQ\u001b[24m and make sure you are in the right directory.\u001b[22m\u001b[39m",
-  "path": "/home/naomi/code/naomi/template"
-}

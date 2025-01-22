@@ -2,7 +2,7 @@ name: 🐛 Bug Report
 description: Something isn't working as expected? Let us know!
 title: '[BUG] - '
 labels:
-  - "🚦 status: awaiting triage"
+  - "status/awaiting triage"
 body:
   - type: checkboxes
     id: attestations

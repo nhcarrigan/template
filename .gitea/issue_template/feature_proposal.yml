@@ -2,7 +2,7 @@ name: 💭 Feature Proposal
 description: Have an idea for how we can improve? Share it here!
 title: '[FEAT] - '
 labels:
-  - "🚦 status: awaiting triage"
+  - "status/awaiting triage"
 body:
   - type: checkboxes
     id: attestations
